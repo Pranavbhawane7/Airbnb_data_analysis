@@ -12,3 +12,5 @@ Analyze availability patterns across seasons, visualizing occupancy rates and de
 Investigate location-based insights by extracting and visualizing data for specific regions or neighborhoods.
 Create interactive visualizations that enable users to filter and drill down into the data.
 Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
+
+<img width="1173" height="663" alt="Screenshot 2024-06-21 210108" src="https://github.com/user-attachments/assets/f0aca163-648d-4a26-a8d7-702d9344dd3a" />
